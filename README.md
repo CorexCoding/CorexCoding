@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CorexCoding
+- 👀 I’m interested in Virtual Reality 
+- 🌱 I’m currently learning Java,Python,Html,CSS
+- 💞️ I’m looking to collaborate on "Anything that sounds fun"
+- 📫 How to reach me lcm212243@gmail.com
